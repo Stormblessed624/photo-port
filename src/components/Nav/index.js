@@ -29,7 +29,7 @@ function Nav(props) {
           </li>
           <li className="mx-2">
             <span>Contact</span>
-            </li>
+          </li>
           {categories.map((category) => (
             <li
               className={`mx-1 ${
